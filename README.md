@@ -1,1 +1,15 @@
-# web
+# Eduford School
+![Screenshot (303)](https://github.com/user-attachments/assets/88489e60-3293-4991-8c64-3dde50902095)
+![Screenshot (304)](https://github.com/user-attachments/assets/9ef09e23-6769-428c-b081-3578ec65f16f)
+![Screenshot (305)](https://github.com/user-attachments/assets/4e8a0a24-ef76-47f4-9db2-2bfb0a35979c)
+![Screenshot (306)](https://github.com/user-attachments/assets/32ba76de-39c8-4323-a6de-2f7423d78f69)
+![Screenshot (307)](https://github.com/user-attachments/assets/31ba7434-24ce-42aa-89c6-ea5b8b3a1ccb)
+![Screenshot (308)](https://github.com/user-attachments/assets/dc5d2c18-11a8-4dda-aa4d-64bbd131aa54)
+![Screenshot (309)](https://github.com/user-attachments/assets/02caa657-ee0a-4984-96af-b1f59b2ea8dc)
+![Screenshot (310)](https://github.com/user-attachments/assets/b8f29b80-05ac-4509-83dc-43424b450f1f)
+![Screenshot (311)](https://github.com/user-attachments/assets/ff404e72-eaa6-4a59-bddf-6256486887c2)
+![Screenshot (312)](https://github.com/user-attachments/assets/058f65da-08c5-46b9-aecf-17662a425f4c)
+![Screenshot (313)](https://github.com/user-attachments/assets/0290006b-d8fc-44b8-a792-b5ff6369a124)
+![Screenshot (314)](https://github.com/user-attachments/assets/fcd2a5b7-f977-4f74-affe-c8dd0503df8c)
+![Screenshot (315)](https://github.com/user-attachments/assets/a8f26d98-2b94-4e24-9216-98d8d6a9f0d8)
+![Screenshot (316)](https://github.com/user-attachments/assets/57a53e45-da18-4900-8f73-d1309b7c3cf7)
